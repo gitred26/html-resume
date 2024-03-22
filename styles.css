@@ -1,0 +1,16 @@
+h1, footer {
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+h2 {color: brown;}
+
+.heading-3 {
+    color: burlywood;
+    background-color:brown;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
